@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# Optional REPL history
+.env
+
+# vscode
+.vscode
+
+# compiled app
+dist
