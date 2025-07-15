@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fastify/mongodb": "latest",
+    "fastify": "^5.4.0",
+    "fastify-cli": "^7.4.0",
+    "fastify-plugin": "^5.0.0"
+  },
+  "scripts": {
+    "start": "fastify start server.js"
+  },
+  "type": "module"
+}
